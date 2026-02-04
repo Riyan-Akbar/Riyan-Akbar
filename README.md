@@ -1,8 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on Mastering my Skills and Building my Foundations <br>👯 I’m looking to collaborate on Python projects , ui/ux projects(as a hobby), creative project ideas and discussion on real world problems and their solutions<br>🤝 I’m looking for help with Machine Learning / Data Science <br>🌱 I’m currently learning Data Science and my Final Goal is Machine Learning Enginner<br>💬 Ask me about : <br>        1. My Repos<br>       2. My Journey till here<br>       3. About Myself<br>       4. Cool and Creative group projects collaborations<br>       5. Anything Else Too..!<br>⚡ Fun fact : <br>      I love cooking, crafting, and fixing broken things. I'm also into a bit of drawing and enjoy watching creators like @cnliziqi, @dianxixiaoge, @Her86m2, @mav, and others.
+🔭 I’m currently working on Mastering my Skills and Building my Foundations <br>👯 I’m looking to collaborate on Python projects , ui/ux projects(as a hobby), creative project ideas and discussion on real world problems and their solutions<br>🤝 I’m looking for help with Machine Learning / Data Science <br>🌱 I’m currently learning Data Science and my Final Goal is Machine Learning Enginner<br>💬 Ask me about : <br>        1. My Repos<br>       2. My Journey till here<br>       3. About Myself<br>       4. Cool and Creative group projects collaborations<br>       5. Anything Else Too..!<br>⚡ Fun fact : <br>      I love cooking, crafting, and fixing broken things. I'm also into a bit of drawing.
 
-I like watching coding competitions too!
-Right now, I'm preparing for GATE (on pause for now 😓 as I adapt to my 5th semester), and focusing fully on strengthening my foundations. 😁
+I like watching coding competitions too! (that css , js competition here - @syntaxfm).
 
 
 ## 🌐 Socials:
